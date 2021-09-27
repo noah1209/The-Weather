@@ -1,0 +1,52 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{109, 73}, {198, 190}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{70, 70}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "imageview1",
+          "uuid" : "C48D1653-9101-438A-8C32-F80883C4C585"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{109, 291}, {200, 100}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_tapped",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "tint_color" : "RGBA(0.685990,0.444444,1.000000,1.000000)",
+          "title" : "OK",
+          "uuid" : "2318C004-C3C3-42CE-BE4D-C9DA79758069",
+          "font_bold" : false,
+          "class" : "Button",
+          "border_color" : "RGBA(0.654589,0.388889,1.000000,1.000000)",
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "name" : "button2",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {240, 240}}",
+    "class" : "View",
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "The weather",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

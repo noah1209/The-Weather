@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 130.4181,
+        "lat": 33.6064
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 21.38,
+        "feels_like": 21.38,
+        "temp_min": 20.95,
+        "temp_max": 23.34,
+        "pressure": 1015,
+        "humidity": 69
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.54,
+        "deg": 60
+    },
+    "clouds": {
+        "all": 66
+    },
+    "dt": 1632673813,
+    "sys": {
+        "type": 1,
+        "id": 7998,
+        "country": "JP",
+        "sunrise": 1632690574,
+        "sunset": 1632733752
+    },
+    "timezone": 32400,
+    "id": 1863967,
+    "name": "Fukuoka",
+    "cod": 200
+}
