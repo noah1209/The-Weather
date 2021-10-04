@@ -20,7 +20,8 @@ elif (hour > 5):
 str1 = "今のお天気をお知らせします。ただいまの時刻は{}時{}分です。".format(hour, minute)
 
 speech.say(str1, "ja-JP", 0.5)
-API_KEY = "4fa2fe87026af58a0ae452080a60b3d6"
+#YOUR_API_KEYにはOpenWEATHERにて生成したAPIKEYを入力してください
+API_KEY = "YOUR_API_KEY"
 BASE_URL = "http://api.openweathermap.org/data/2.5/forecast"
 #ここのシティの部分を変更すると別の地方でも使えます。
 city = "Fukuoka-shi"
